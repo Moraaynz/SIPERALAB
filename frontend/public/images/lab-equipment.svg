@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300">
+  <rect width="520" height="300" rx="20" fill="#f8fafc"/>
+
+  <!-- microscope -->
+  <rect x="95" y="210" width="120" height="15" rx="5" fill="#334155"/>
+  <rect x="135" y="155" width="40" height="55" fill="#64748b"/>
+  <path d="M145 155 V90 Q145 65 170 65 H190"
+        fill="none" stroke="#334155" stroke-width="14"/>
+  <circle cx="190" cy="65" r="12" fill="#334155"/>
+  <rect x="175" y="45" width="45" height="12" rx="5" fill="#475569"/>
+
+  <!-- flask -->
+  <path d="M275 65 H315 M285 65 V120 L255 205 H335 L305 120 V65"
+        fill="#dbeafe" stroke="#475569" stroke-width="5"/>
+  <path d="M270 165 H320 L335 205 H255 Z"
+        fill="#60a5fa"/>
+
+  <!-- test tubes -->
+  <rect x="375" y="85" width="25" height="100" rx="12"
+        fill="#dbeafe" stroke="#475569" stroke-width="4"/>
+  <rect x="410" y="105" width="25" height="80" rx="12"
+        fill="#dbeafe" stroke="#475569" stroke-width="4"/>
+
+  <!-- table -->
+  <rect x="60" y="225" width="400" height="12" rx="5" fill="#94a3b8"/>
+
+  <text x="260" y="270"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="20"
+        fill="#334155">
+    SIPERALAB
+  </text>
+</svg>
