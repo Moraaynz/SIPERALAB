@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250">
+  <rect width="400" height="250" fill="#e2e8f0"/>
+  <rect x="75" y="105" width="250" height="80" rx="12" fill="#334155"/>
+  <rect x="105" y="125" width="35" height="20" rx="3" fill="#94a3b8"/>
+  <rect x="155" y="125" width="35" height="20" rx="3" fill="#94a3b8"/>
+  <rect x="205" y="125" width="35" height="20" rx="3" fill="#94a3b8"/>
+  <line x1="120" y1="105" x2="100" y2="45" stroke="#334155" stroke-width="8"/>
+  <line x1="280" y1="105" x2="300" y2="45" stroke="#334155" stroke-width="8"/>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial" font-size="20">Router</text>
+</svg>
